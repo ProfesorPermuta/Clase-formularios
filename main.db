@@ -1,0 +1,51 @@
+{
+  "Usuarios": [
+    {
+      "nombre": "Pedro",
+      "pass": "1234",
+      "id": "4a7d"
+    },
+    {
+      "nombre": "Joaquin",
+      "pass": "1234",
+      "id": "a0c0"
+    }
+  ],
+  "Juegos": [
+    {
+      "id": "1",
+      "nombre": "Balatro",
+      "precio_completo": 15,
+      "descripción": "Juego de poker rogue like. Casi GOTY pero no..."
+    },
+    {
+      "id": "2",
+      "nombre": "Marvel Rivals",
+      "precio_completo": 0,
+      "descripción": "Como el Over Watch, pero Marvel."
+    },
+    {
+      "id": "3",
+      "nombre": "XCOM2",
+      "precio_completo": 40,
+      "descripción": "Un 99% de acierto -> fallar un 50% de las veces"
+    }
+  ],
+  "Libreria": [
+    {
+      "usuario": "Pedro",
+      "juego": 1,
+      "id": "60e1"
+    },
+    {
+      "usuario": "Pedro",
+      "juego": 3,
+      "id": "0b83"
+    },
+    {
+      "usuario": "Joaquin",
+      "juego": 2,
+      "id": "69fc"
+    }
+  ]
+}
